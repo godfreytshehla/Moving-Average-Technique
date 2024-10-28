@@ -1,4 +1,4 @@
-In this tutorial, I discuss three types moving average techniques. Before I discuss the mathematics, I will start by explaining what moving average means in layman's terms.
+In this tutorial, I discuss two types of moving average techniques. Before I discuss the mathematics, I will start by explaining what moving average means in layman's terms.
 
 In mathematics, average is simply a value that represents the central value or the most occuring value in the dataset. There are three main types of average: arithmetic mean (your normal average), median, and mode. When we talk about average most people just assume the first one, that is, arithmetic mean or average. 
 Assume you have the following simple dataset $D=[3, 7, 7, 8, 10]$. The mean, median and mode of this dataset is $7$.
